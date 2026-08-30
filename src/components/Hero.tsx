@@ -1,4 +1,4 @@
-import { ArrowRight, Compass, Sprout, Heart, Users, Sun, Trees } from 'lucide-react';
+import { ArrowRight, Sprout, Users, Sun } from 'lucide-react';
 import { useScrollReveal } from '../hooks/useScrollReveal';
 import manosImg from '../assets/manos.jpeg';
 import junteImg from "../assets/junte.jpeg"
