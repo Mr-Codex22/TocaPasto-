@@ -25,11 +25,10 @@ export default function Footer() {
               onClick={(e) => { e.preventDefault(); scrollTo('#hero'); }}
             >
               <span className="footer__logo-mark">A</span>
-              <span>Angel</span>
+              <span>Ricky MiNUME Group</span>
             </a>
             <p className="footer__desc">
-              La plataforma que conecta jóvenes con actividades educativas, culturales y de liderazgo
-              para impulsar su futuro.
+              Jovenes lideres ansiosos por acer un cambio.
             </p>
             <div className="footer__social">
               <a href="#" className="footer__social-link" aria-label="Instagram">
