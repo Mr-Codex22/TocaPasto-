@@ -25,10 +25,10 @@ export default function Footer() {
               onClick={(e) => { e.preventDefault(); scrollTo('#hero'); }}
             >
               <span className="footer__logo-mark">A</span>
-              <span>Ricky MiNUME Group</span>
+              <span>Leaders of Tomorrow</span>
             </a>
             <p className="footer__desc">
-              Jovenes lideres ansiosos por acer un cambio.
+              Jovenes lideres ansiosos por hacer un cambio.
             </p>
             <div className="footer__social">
               <a href="#" className="footer__social-link" aria-label="Instagram">
