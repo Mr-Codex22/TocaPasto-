@@ -12,9 +12,9 @@ export default function CtaSection() {
           <div className="cta__shape cta__shape--1" />
           <div className="cta__shape cta__shape--2" />
 
-          <h2 className="cta__title">¿Listo para tocar pasto?</h2>
+          <h2 className="cta__title">¿Listo para dejar el scroll y hacer algo más productivo?</h2>
           <p className="cta__text">
-            Guarda tu móvil por unas horas y únete a los jóvenes que ya están explorando senderos, compartiendo lecturas y construyendo comunidad en el mundo físico.
+            Guarda tu móvil por unas horas y únete a los jóvenes que ya están explorando nuevos senderos, compartiendo y construyendo.
           </p>
           <div className="cta__actions">
             <a
