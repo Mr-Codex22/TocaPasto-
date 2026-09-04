@@ -23,8 +23,8 @@ const REASONS = [
   },
   {
     icon: Sprout,
-    title: 'Impacto Verde',
-    description: 'Deja tu entorno mejor de como lo encontraste. Contribuye activamente a la restauración ecológica y huertos locales.',
+    title: 'Dejas el scroll  y holgazanear',
+    description: 'Busca un propósito mas allá de tu entorno digital.',
     color: 'var(--green)',
   },
 ];

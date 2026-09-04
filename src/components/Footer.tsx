@@ -24,7 +24,7 @@ export default function Footer() {
               className="footer__logo"
               onClick={(e) => { e.preventDefault(); scrollTo('#hero'); }}
             >
-              <span className="footer__logo-mark">A</span>
+              <span className="footer__logo-mark"></span>
               <span>Leaders of Tomorrow</span>
             </a>
             <p className="footer__desc">
